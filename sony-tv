@@ -1,0 +1,67 @@
+# Google telemetry / analytics
+firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebaseinstallations.googleapis.com
+app-measurement.com
+feedback-pa.googleapis.com
+footprints-pa.googleapis.com
+people-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
+statsigapi.net
+statsig.com
+mixpanel.com
+decide.mixpanel.com
+bugsnag.com
+crashlytics.com
+
+# Sony telemetry
+sa.sde.sony.com
+erabu.sony.tv
+metadata.erabu.sony.tv
+image-tv.meta.ndmdhs.com
+
+# Netflix telemetry
+logs.netflix.com
+push.prod.netflix.com
+
+# Plex telemetry
+plex.tv
+tvthemes.plexapp.com
+
+# Google ads / tracking
+googleads.g.doubleclick.net
+doubleclick.net
+static.doubleclick.net
+
+# Attribution / tracking SDKs
+appsflyersdk.com
+kochava.com
+api.statsig.com
+
+# TV / HbbTV ad systems
+samba.tv
+smartclip.net
+aticdn.net
+tvping-agf.com
+
+# Meta tracking
+meta.ndmdhs.com
+cdn.meta.ndmdhs.com
+api.meta.ndmdhs.com
+
+# Suspicious / unwanted domains
+co.kvaedit.site
+int.kvaedit.site
+co.dewrain.world
+int.dewrain.world
+infinitestyle.net
+myimgs.org
+s23.magmatvs.com
+lb5dedicate.org
+pizdache.cc
+privacyshield.zip
+vivaespana.policyshield.org
+co.vaicore.xyz
+int.vaicore.xyz
+co.vaicore.store
+int.vaicore.store
