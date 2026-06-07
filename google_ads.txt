@@ -1,6 +1,6 @@
-doubleclick.net
-static.doubleclick.net
-googlesyndication.com
-googleads.g.doubleclick.net
-pagead2.googlesyndication.com
-tpc.googlesyndication.com
+0.0.0.0 doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
