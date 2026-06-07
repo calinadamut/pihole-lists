@@ -1,0 +1,4 @@
+sesupdate.com
+cdn-api.sesupdate.com
+api.sesupdate.com
+gpms.sesupdate.com
